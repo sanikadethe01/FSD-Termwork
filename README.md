@@ -1,2 +1,0 @@
-# FSD-Termwork
-FSD-Termwork
