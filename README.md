@@ -1,4 +1,5 @@
 # Full Stack Development Term Work
+This repository contains all assignments and practical work completed for the Full Stack Development course.
 
 ## Student Information
 Name: Sanika Dethe  
@@ -25,3 +26,36 @@ This assignment demonstrates the usage of basic HTML tags by presenting them in 
 ![Output1](Ass1/Outputs/Output1.png)
 ### Output 2
 ![Output2](Ass1/Outputs/Output2.png)
+
+---
+
+# Assignment 2 – Personal Portfolio Website
+
+**Objective:**  
+To design and develop a personal portfolio website using HTML and CSS.
+
+**Description:**  
+This portfolio website showcases personal information, skills, projects, and contact details in a structured and visually appealing layout.
+
+**Technologies Used:**  
+- HTML  
+- CSS  
+
+## Output
+### Output 1
+![Output1](Ass2_Portfolio/Outputs/Output%201.png)
+### Output 2
+![Output2](Ass2_Portfolio/Outputs/Output%208.png)
+
+---
+
+## Certification
+
+As part of the course requirement, a certification related to Full Stack Development has been completed.
+
+📄 **Certificate:**  
+
+[View Certificate](FSD%20Certificate.pdf)
+
+---
+
