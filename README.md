@@ -59,3 +59,26 @@ As part of the course requirement, a certification related to Full Stack Develop
 
 ---
 
+# Assignment 3: E-Commerce Website
+
+## Objective
+To design and implement a basic e-commerce web application interface using HTML, CSS, and JavaScript.
+
+## Description
+This assignment demonstrates a simple e-commerce webpage where users can browse products and interact with a shopping cart interface. It includes product display, cart functionality, and responsive styling.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Outputs
+
+### Output 1
+![Output1](Ass3_Ecommerce%20app/Outputs/1.png)
+
+### Output 2
+![Output2](Ass3_Ecommerce%20app/Outputs/2.png)
+
+### Output 4
+![Output4](Ass3_Ecommerce%20app/Outputs/4.png)
