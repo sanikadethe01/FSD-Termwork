@@ -80,5 +80,5 @@ This assignment demonstrates a simple e-commerce webpage where users can browse 
 ### Output 2
 ![Output2](Ass3_Ecommerce%20app/Outputs/2.png)
 
-### Output 4
+### Output 3
 ![Output4](Ass3_Ecommerce%20app/Outputs/4.png)
