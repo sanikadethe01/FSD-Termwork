@@ -95,5 +95,8 @@ Ass5_mongodb connection
 ### Output 2
 ![Output1](Outputs/Output%209.png)
 
+### Output 3
+![Output1](Outputs/Output10.png)
+
 ## Conclusion
 This assignment provided hands-on experience in building a full stack web application by integrating frontend, backend, and database. It helped in understanding how real-world applications store and process data using MongoDB and Node.js.
