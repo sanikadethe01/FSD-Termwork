@@ -228,3 +228,111 @@ This assignment demonstrates the development of a full-stack e-commerce web appl
 
 ### Output 4
 ![Output5](Ass6_Ecommerce_db_connection/Outputs/5.png)
+
+---
+
+# Assignment 7: Full-Stack E-Commerce Application with React & Node.js
+
+## Objective
+- To design and develop a complete full-stack e-commerce web application
+- To implement modern frontend technologies with React.js
+- To build a robust backend API with Node.js and Express.js
+- To integrate MongoDB for data persistence
+- To implement user authentication and authorization
+- To create an admin dashboard for product and order management
+
+## Description
+This assignment demonstrates the development of a comprehensive full-stack e-commerce application. The frontend is built with React.js featuring component-based architecture, routing, and responsive design. The backend provides RESTful APIs for product management, user authentication, and order processing. MongoDB is used for data storage with Mongoose schemas. The application includes user registration/login, product browsing with category filtering, shopping cart functionality, order placement, and an admin panel for managing products and viewing orders.
+
+## Technologies Used
+- **Frontend**: React.js, React Router, Axios, CSS
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Authentication**: JWT (JSON Web Tokens), bcryptjs
+- **Development Tools**: npm, Git
+
+## Features
+- **User Authentication**: Secure registration and login with JWT tokens
+- **Product Management**: Browse products with category filtering and search
+- **Shopping Cart**: Add/remove items, quantity management, persistent storage
+- **Order Processing**: Complete checkout flow with order history
+- **Admin Dashboard**: Add/delete products, view all orders and analytics
+- **Responsive Design**: Mobile-friendly interface with modern UI
+- **API Integration**: RESTful backend APIs for all operations
+- **Database Integration**: MongoDB with proper schema design
+
+## Steps to Run the Project
+
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB (local installation or MongoDB Atlas)
+- npm or yarn package manager
+
+### Backend Setup
+1. Navigate to the backend directory:
+   ```bash
+   cd Ass7_Ecommerce_node/backend
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Create a `.env` file with:
+   ```
+   MONGODB_URI=mongodb://127.0.0.1:27017/ecommerceDB
+   JWT_SECRET=your-secret-key-here
+   PORT=5000
+   ```
+
+4. Start MongoDB server (if using local MongoDB)
+
+5. Seed the database:
+   ```bash
+   npm run seed
+   ```
+
+6. Start the backend server:
+   ```bash
+   npm start
+   ```
+
+### Frontend Setup
+1. Open a new terminal and navigate to the frontend directory:
+   ```bash
+   cd Ass7_Ecommerce_node/frontend
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the React development server:
+   ```bash
+   npm start
+   ```
+
+### Access the Application
+- **Frontend**: http://localhost:3000
+- **Backend API**: http://localhost:5000
+
+## Outputs
+
+### Output 1: Home Page - Product Catalog
+![Output1](Ass7_Ecommerce_node/Outputs/1.png)
+
+### Output 2: Product Filtering
+![Output2](Ass7_Ecommerce_node/Outputs/2.png)
+
+### Output 3: Shopping Cart
+![Output3](Ass7_Ecommerce_node/Outputs/3.png)
+
+### Output 4: User Registration
+![Output4](Ass7_Ecommerce_node/Outputs/4.png)
+
+### Output 5: User Login
+![Output5](Ass7_Ecommerce_node/Outputs/5.png)
+
+
+
